@@ -37,16 +37,8 @@
             }
         },
         {
-            "type": "package",
-            "package": {
-                "name": "smartweb/phpnats",
-                "version": "dev-master",
-                "source": {
-                    "url": "https://github.com/smartwebdk/phpnats",
-                    "type": "git",
-                    "reference": "origin/master"
-                }
-            }
+            "type": "vcs",
+            "url": "https://github.com/smartwebdk/phpnats"
         }
     ],
     "autoload": {

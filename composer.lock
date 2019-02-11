@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "94e6fc0d6bb18a799f3b917ec43596bf",
+    "content-hash": "f7fc9fdd004ca2b20b750986366b7e36",
     "packages": [
         {
             "name": "ircmaxell/random-lib",
@@ -176,7 +176,7 @@
             "version": "v0.9.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:SmartWebDK/phpnats.git",
+                "url": "https://github.com/SmartWebDK/phpnats.git",
                 "reference": "f54b0a2c9719d6964dfaa6da7551bb59e063b9e1"
             },
             "require": {
