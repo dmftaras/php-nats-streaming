@@ -37,8 +37,16 @@
             }
         },
         {
-            "type": "composer",
-            "url": "https://composer.smartweb.io/"
+            "type": "package",
+            "package": {
+                "name": "smartweb/phpnats",
+                "version": "dev-master",
+                "source": {
+                    "url": "https://github.com/smartwebdk/phpnats",
+                    "type": "git",
+                    "reference": "origin/master"
+                }
+            }
         }
     ],
     "autoload": {
