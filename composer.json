@@ -1,10 +1,10 @@
 {
-    "name": "smartweb/php-nats-streaming",
+    "name": "dmftaras/php-nats-streaming",
     "description": "PHP Client for nats-streaming-server.",
     "authors": [
         {
-            "name": "Nicolai Agersbæk",
-            "email": "na@zitcom.dk"
+            "name": "Taras Kostetskyi",
+            "email": "dmftaras@gmail.com"
         }
     ],
     "license": "MIT",
