@@ -27,20 +27,6 @@ Uses [phpnats](https://github.com/repejota/phpnats) under the hood and closesly 
 * php 5.6+
 * [stan](https://github.com/nats-io/nats-streaming-server)
 
-
-## Installation
-
-Get [composer](https://getcomposer.org/):
-```bash
-curl -O http://getcomposer.org/composer.phar && chmod +x composer.phar
-```
-
-Add php-nats-streaming as a dependency to your project
-
-```bash
-php composer.phar require 'byrnedo/php-nats-streaming:^0.2.4'
-```
-
 ## Usage
 
 ### Publish
