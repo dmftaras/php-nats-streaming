@@ -4,11 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d4da8c015a1ae14bacc39e56b859eebd",
+    "content-hash": "2f84db8f46cc671db14263a948a84b72",
     "packages": [
         {
             "name": "dmftaras/phpnats",
-            "version": "dev-master",
+            "version": "v0.9.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dmftaras/phpnats.git",
@@ -2868,7 +2868,6 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "dmftaras/phpnats": 20,
         "symfony/console": 20,
         "github.com/gogo/protobuf": 20
     },
